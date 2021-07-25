@@ -2,16 +2,14 @@
 # 注意：release只是用来存档的。
 Please read the descriptions of settings before raising an issue. 请将设置中所有的设置项的说明都读一遍，有些问题就不用问了。  
 
-# Deploy to Heroku  
+# 部署到 Heroku  
 Official: https://heroku.com  
 Demo: https://herooneindex.herokuapp.com/  
 
-How to Install:   
-> ~~Click the button [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/qkqpttgf/OneManager-php) to Deploy a new app~~(`"We couldn't deploy your app because the source code violates the Salesforce Acceptable Use and External-Facing Services Policy."`)  
-> Fork this project, create an heroku app, then turn to Deploy tab, deploy via connect to your github fork.   
+> [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mcxiaolan/OneManager-php)
 
 
-# Deploy to Glitch  
+# 部署到 Glitch  
 Official: https://glitch.com/  
 Demo: https://onemanager.glitch.me/  
 
