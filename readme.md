@@ -63,7 +63,7 @@ Official: https://console.bce.baidu.com/cfc/#/cfc/functions
 DEMO:  无  
 自定义域名需要另外使用API网关，并备案。  
 
-How to Install:  
+#How to Install:  
   1，在函数列表，点创建函数  
   2，创建方式改为空白函数，点下一步  
   3，输入名称，选择运行时为PHP7.2，点下一步  
