@@ -6,7 +6,7 @@ Please read the descriptions of settings before raising an issue. 请将设置�
 Official: https://heroku.com  
 Demo: https://herooneindex.herokuapp.com/  
 
-> [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mcxiaolan/OneManager-php)
+> [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/wdnmdd123/minOneManager)
 
 
 # 部署到 Glitch  
